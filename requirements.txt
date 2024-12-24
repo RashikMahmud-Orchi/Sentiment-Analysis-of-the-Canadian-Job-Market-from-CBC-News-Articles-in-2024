@@ -1,0 +1,17 @@
+pandas
+matplotlib
+selenium
+webdriver-manager
+nltk
+scikit-learn
+plotly
+textblob
+panel
+nbformat
+google-generativeai
+spacy
+openpyxl
+keras
+tensorflow
+Keras-Preprocessing
+
